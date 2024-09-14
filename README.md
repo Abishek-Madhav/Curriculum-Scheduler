@@ -9,7 +9,9 @@ A Curriculum Scheduler is essential for efficiently managing college class timet
 Python
 <h3>Libraries</h3>
 1) random: For generating random selections during mutation and crossover.
+
 2) prettytable: For displaying data in tabular format.
+   
 3) numpy: Used for calculating statistical measures such as mean and standard deviation of fitness scores.
 
 
