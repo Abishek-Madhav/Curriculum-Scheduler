@@ -8,6 +8,7 @@ A Curriculum Scheduler is essential for efficiently managing college class timet
 <h3>Language</h3>
 Python
 <h3>Libraries</h3>
+
 1) random: For generating random selections during mutation and crossover.
 
 2) prettytable: For displaying data in tabular format.
